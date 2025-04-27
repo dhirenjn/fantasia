@@ -1,6 +1,9 @@
 # Fantasia
 This project uses ESP32 with TouchPad sensors to play musical notes (Sa, Re, Ga, Ma, Pa) and control LED flickering. Each touchpin triggers an LED's flicker pattern and a corresponding note. Ideal for exploring touch sensing and sound-reactive lighting.
 
+This repository has 2 codes. 
+The "main.py" code is a simple but longer version of code. The shorter but a little complex version of the code is "main1.py". You can use both and both do the same job.
+
 Features
 5 touch sensors: Each sensor corresponds to a musical note (Sa, Re, Ga, Ma, Pa).
 5 LEDs: Each LED flickers when the corresponding touchpad is activated.
